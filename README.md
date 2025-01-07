@@ -19,7 +19,7 @@
         <section class="projects">
             <h2>🛠️ Projects</h2>
             <div class="project-card">
-                <h3>Project 1: Urban Sustainabile Mobility of Greater Transportation</h3>
+                <h3>Project 1: Sustainabale Urban Mobility of Greater Transportation</h3>
                 <ul>
                     <li><strong>Objectives:</strong> Analyze urban transportation trends to enhance sustainability and optimize mobility systems.
                                                     Predict and mitigate transportation bottlenecks using computational models.</li>
