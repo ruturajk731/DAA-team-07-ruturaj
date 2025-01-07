@@ -19,7 +19,7 @@
         <section class="projects">
             <h2>🛠️ Projects</h2>
             <div class="project-card">
-                <h3>Project 1: Traffic Analysis Using Machine Learning</h3>
+                <h3>Project 1: Urban Sustainabile Mobility of Greater Transportation</h3>
                 <ul>
                     <li><strong>Objectives:</strong> Analyze urban traffic trends and predict traffic jams using ML algorithms.</li>
                     <li><strong>Features:</strong> Real-time traffic data analysis, predictive ML models, and visualization dashboards.</li>
