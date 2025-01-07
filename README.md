@@ -38,7 +38,7 @@
         </section>
         <section class="find-me">
             <h2>🌐 Find Me Online</h2>
-            <p><a href="https://github.com/ruturajk731" target="_blank">GitHub</a> | <a href="https://www.linkedin.com/feed/" target="_blank">LinkedIn</a></p>
+            <p><a href="https://github.com/ruturajk731" target="_blank">GitHub</a></p>
         </section>
         <section class="details">
             <h2>Portfolio Topic</h2>
