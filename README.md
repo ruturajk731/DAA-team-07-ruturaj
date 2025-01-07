@@ -21,11 +21,17 @@
             <div class="project-card">
                 <h3>Project 1: Urban Sustainabile Mobility of Greater Transportation</h3>
                 <ul>
-                    <li><strong>Objectives:</strong>Analyze urban transportation trends to enhance sustainability and optimize mobility systems.
+                    <li><strong>Objectives:</strong> Analyze urban transportation trends to enhance sustainability and optimize mobility systems.
                                                     Predict and mitigate transportation bottlenecks using computational models.</li>
-                    <li><strong>Features:</strong> Real-time traffic data analysis, predictive ML models, and visualization dashboards.</li>
-                    <li><strong>Technologies:</strong> Machine Learning, GPS/IoT data sources, visualization tools.</li>
-                    <li><strong>Applications:</strong> Improved traffic management, reduced travel time, enhanced emergency response efficiency.</li>
+                    <li><strong>Features:</strong> Real-time transportation data analysis through efficient algorithms.
+Predictive models implemented using C++ for high performance and reliability.
+User-friendly visualization tools to showcase transportation trends.</li>
+                    <li><strong>Technologies:</strong> Programming Language: C++ for processing transportation data and implementing predictive models.
+Integration with GPS/IoT data sources for dynamic inputs.
+Libraries: Use STL, Boost, or third-party libraries for data processing and analysis.</li>
+                    <li><strong>Applications:</strong> Better traffic and public transit management.
+Enhanced commuter experience with optimized schedules and routes.
+Support for urban planning to promote sustainable and eco-friendly transportation.</li>
                 </ul>
             </div>
         </section>
