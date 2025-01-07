@@ -21,7 +21,8 @@
             <div class="project-card">
                 <h3>Project 1: Urban Sustainabile Mobility of Greater Transportation</h3>
                 <ul>
-                    <li><strong>Objectives:</strong> Analyze urban traffic trends and predict traffic jams using ML algorithms.</li>
+                    <li><strong>Objectives:</strong>Analyze urban transportation trends to enhance sustainability and optimize mobility systems.
+                                                    Predict and mitigate transportation bottlenecks using computational models.</li>
                     <li><strong>Features:</strong> Real-time traffic data analysis, predictive ML models, and visualization dashboards.</li>
                     <li><strong>Technologies:</strong> Machine Learning, GPS/IoT data sources, visualization tools.</li>
                     <li><strong>Applications:</strong> Improved traffic management, reduced travel time, enhanced emergency response efficiency.</li>
