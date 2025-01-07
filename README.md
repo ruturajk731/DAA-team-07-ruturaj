@@ -53,7 +53,7 @@ Support for urban planning to promote sustainable and eco-friendly transportatio
                 <dt>Course</dt>
                 <dd>DAA (Algorithmic Problem Solving)</dd>
                 <dt>Name</dt>
-                <dd>RUTURAJ </dd>
+                <dd>Ruturaj K </dd>
                 <dt>SRN</dt>
                 <dd>02FE24BCS402</dd>
                 <dt>Course Instructor</dt>
