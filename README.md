@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Aditya Gavade - Portfolio</title>
+    <title>Ruturaj Kademani - Portfolio</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -13,7 +13,7 @@
     <main>
         <img src="images/images.jpg" alt="Description of the image" width="300">
         <section class="about">
-            <h2>Hello, I'm <span class="highlight">ADITYA GAVADE</span> 👋</h2>
+            <h2>Hello, I'm <span class="highlight">ADITYA GAVADE</span> </h2>
             <p>I am passionate about technology and problem-solving. Here's a glimpse of my work:</p>
         </section>
         <section class="projects">
@@ -38,7 +38,7 @@
         </section>
         <section class="find-me">
             <h2>🌐 Find Me Online</h2>
-            <p><a href="https://github.com/adityagavde48" target="_blank">GitHub</a> | <a href="https://www.linkedin.com/feed/" target="_blank">LinkedIn</a></p>
+            <p><a href="https://github.com/ruturajk731" target="_blank">GitHub</a> | <a href="https://www.linkedin.com/feed/" target="_blank">LinkedIn</a></p>
         </section>
         <section class="details">
             <h2>Portfolio Topic</h2>
@@ -48,9 +48,9 @@
                 <dt>Name</dt>
                 <dd>RUTURAJ </dd>
                 <dt>SRN</dt>
-                <dd>02FE24BCS404</dd>
+                <dd>02FE24BCS402</dd>
                 <dt>Course Instructor</dt>
-                <dd>Shankar B</dd>
+                <dd>Prof. Shankar B</dd>
                 <dt>University</dt>
                 <dd>KLE TECHNOLOGY</dd>
                 <dt>Department</dt>
@@ -62,7 +62,7 @@
         </blockquote>
     </main>
     <footer class="footer">
-        <p>&copy; 2025 Aditya Gavade</p>
+        <p>&copy; 2025 Ruturaj Kademani</p>
     </footer>
 </body>
 </html>
