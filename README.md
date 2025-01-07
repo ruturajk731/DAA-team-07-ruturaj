@@ -13,7 +13,7 @@
     <main>
         <img src="images/images.jpg" alt="Description of the image" width="300">
         <section class="about">
-            <h2>Hello, I'm <span class="highlight">ADITYA GAVADE</span> </h2>
+            <h2>Hello, I'm <span class="highlight">Ruturaj Kademani</span> </h2>
             <p>I am passionate about technology and problem-solving. Here's a glimpse of my work:</p>
         </section>
         <section class="projects">
